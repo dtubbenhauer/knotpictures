@@ -1,0 +1,21 @@
+{
+  "train_pngs": 9051,
+  "distinct_train_pngs": 6657,
+  "training_files_in_multiple_occurrence_groups": 3318,
+  "hash_multiplicity_counts": {
+    "1": 5733,
+    "2": 399,
+    "3": 210,
+    "4": 63,
+    "5": 42,
+    "6": 63,
+    "7": 126,
+    "8": 21
+  },
+  "numerical_families": 431,
+  "distinct_21_member_families": 317,
+  "test_pngs": 49,
+  "distinct_test_pngs": 49,
+  "test_overlap_with_train": 18,
+  "expected_training_byte_matches_in_uniform_random_1811_file_holdout": 626.4135293159844
+}

@@ -1,0 +1,50 @@
+file,group,label,sha256,train_matches,train_files
+test/0/0.png,outlined,0,41f90c83a8081d6a6399d935cd2239479a2e4b93173b9b3f26f221d4e6742108,0,
+test/0/1.png,small-line,0,a4a6a8c2cf5c9c1698fd915839b13eae89578a2264b3395d175f85eba1c68954,8,train/0/256.png train/0/296.png train/0/316.png train/0/556.png train/0/656.png train/0/716.png train/0/936.png train/0/976.png
+test/0/2.png,small-line,0,88a9b9b4574130a3ec1df9a4ec4c0a692b46ac20720ef08177c8f36787a66638,6,train/0/189.png train/0/369.png train/0/449.png train/0/669.png train/0/689.png train/0/749.png
+test/10/0.png,outlined,10,c2badcae269fb3d0ada14f95bb46621cd28ceded6f35511e1fd59d830daf8b01,0,
+test/10/1.png,outlined,10,41f91f501324d0bc8c1d7677fed46b02da559484c939e8273894060707be5202,0,
+test/10/2.png,small-line,10,93d195ed5ebd401ba29e48f50e96611a5f9f24b8b73d7cc7a82d28851e5990c8,1,train/10/909.png
+test/10/3.png,small-line,10,0fdcf34c20194177fc628086a1f04941a26e625c349c3432db4c756877a08bdf,3,train/10/407.png train/10/567.png train/10/607.png
+test/10/4.png,smooth-line,10,203030ba0a5b4ec96bdf2f5d8939bf137373f57865a4914dd783bcc2ba172795,0,
+test/10/5.png,smooth-line,10,d3a7bd2f1b37389b324721c76e40e6a95a5bdf27dc288536fbd46b81f89b2686,0,
+test/11/0.png,smooth-line,11,dee13ea5b5f7ac8149903932dbf4833d55d5b78c9a66ab906a90ec9ee7b29cbb,0,
+test/11/1.png,smooth-line,11,f84be7a2108fc8ccca2fa41edeca9c743bf83edd45aaeafc02275d7b754a2178,0,
+test/3/0.png,outlined,3,8d7e071d0990a1cc3265d66d11b1039ae5579beb147bed35767a9bdc4d239f57,0,
+test/3/1.png,small-line,3,9e8bb31acc40aa6f8f2cff7051b41ad048b4e49577b8aec0f07c6de2d29acc7a,1,train/3/672.png
+test/3/2.png,small-line,3,fbfb893cefb6c8c918113019a261da95f1340c63c4da22aaede93bf43bef22ed,1,train/3/54.png
+test/3/3.png,smooth-line,3,495d77eb5fd481ec663b9b2d128b975e56e1c668805e81110290e20546dcff97,0,
+test/4/0.png,outlined,4,3c52130a20e820c5aa2d932700419cbd75b29e480d826d0abc1b70e5f3d07745,0,
+test/4/1.png,small-line,4,b844e40917c2d0a2f0a67ec65087cf5416348c96c5817cd22c422754984416e2,7,train/4/251.png train/4/271.png train/4/291.png train/4/51.png train/4/71.png train/4/891.png train/4/991.png
+test/4/2.png,small-line,4,308b0c4286d4ad76f6414746e105d96869b9a8a3db9fe46d775fc0b75e4cc64e,1,train/4/607.png
+test/4/3.png,smooth-line,4,910378f996c92ac0c6c50758a381da2b445bcd73ecacbaf59199c78e3a43afe0,0,
+test/5/0.png,outlined,5,776cecfa8786b539e1934998bfd30bfe00e53ea0c4239a7eb560ff4c28b154da,0,
+test/5/1.png,outlined,5,480eaa71997368fa62dad755da6f5699375e949fbb871ae286295fd47dae25f3,0,
+test/5/2.png,small-line,5,15c12ff804fb0d191f181a77dbbb0c33022fabfae8725f00e4de5b05102f19fe,3,train/5/833.png train/5/953.png train/5/973.png
+test/5/3.png,small-line,5,255165e4b7bce1146f6a98d6d4c90c91b549ea5c0ecf99d67acc20b283740f18,4,train/5/625.png train/5/785.png train/5/805.png train/5/905.png
+test/5/4.png,smooth-line,5,4011278da0559817bb26ea6bbfeed51af56eb75802a85de28204f5d875a3e75a,0,
+test/5/5.png,smooth-line,5,c79b7c6d4727882f45e97904062cac1ca4cb8044147840d4868417036c605a93,0,
+test/6/0.png,outlined,6,316a6237395430a4aa5fe76e49402b585c8c74bf3951e48b0f3b6b143bd54057,0,
+test/6/1.png,outlined,6,fa3c796fbd5cf41f10b93aafc0e621f8f2adee5a86b949230cee69c52b1355eb,0,
+test/6/2.png,small-line,6,a3ba67c058a9b2180959dd82d600cca718b9fa87a1d467d9de7dbd855a0a0e82,3,train/6/23.png train/6/27.png train/6/29.png
+test/6/3.png,small-line,6,846edb0c83699d56f55fe9a92690c39702d433f4ab4879fc7ab1fcf6cfe9fa66,2,train/6/827.png train/6/987.png
+test/6/4.png,smooth-line,6,d369007cc38ba392b842d2ac069d95834ea1921eca9fb6e7a596686b4521a5d4,0,
+test/6/5.png,smooth-line,6,2ae27d315388479d24f0e30e7bac66f42e1ba47ae60bbdad3856dbba9daa4444,0,
+test/7/0.png,outlined,7,a19819f46f2651d3f0a3795b7543cc523299ad9c8682de06266620b675f617bc,0,
+test/7/1.png,outlined,7,3206d6eb3cfc97bbd509dfcca01c48a8b81a27cda9c939feed2070cb228ff7e1,0,
+test/7/2.png,small-line,7,2ca05b12a435b51ba7b7ca26965c981d78cd9787caf36f089e35bc5bba2b86f4,1,train/7/372.png
+test/7/3.png,small-line,7,4ad2ca54298a36173164bdbe1e76ade505f5ad71e39324905144cb106924fd26,1,train/7/560.png
+test/7/4.png,smooth-line,7,b489b6ef1681d25cfdb7de60398c6cee443f8234f9bdffd365460dbd750bd0c1,0,
+test/7/5.png,smooth-line,7,17c79e08aef44a9feffa557092d7182f9ff58df0589c41f212d8ad35bd1faeca,0,
+test/8/0.png,outlined,8,caa6ab9be3b7fee5aa0a850d9449d63153571d8814a603e53988f41d42ece65d,0,
+test/8/1.png,outlined,8,35cf66058b2d69e5ba1c2957164bde99f1ff13b2688636176a7170045013525d,0,
+test/8/2.png,small-line,8,fcae5b0613e983bb7bef4e485cb4610fdbee6d6540f9f81d45e2124e6e0c6408,1,train/8/311.png
+test/8/3.png,small-line,8,d467a21e1b823b60191b9989616337032cee2e9b997d5dfb166ae2284f81f3fb,1,train/8/810.png
+test/8/4.png,smooth-line,8,7b91d0caa348cf0f3be6497c267f8b426f6580ca28f975cc10ab5391ed0025e1,0,
+test/8/5.png,smooth-line,8,6d59d0adc8bacaecf5722776a9405adc5129c98731fd5fdbd7004caec14b787d,0,
+test/9/0.png,outlined,9,8551352119d2c7538b1be9fb442c2f4cd102ec39a6011815f6b5ea01dedc3c14,0,
+test/9/1.png,outlined,9,e015a044ea1b8189fe6bc1f33b1056515e854964ea73b02758a73570ef52ffe5,0,
+test/9/2.png,small-line,9,b7c1d7028facc9e49a7f5630b11ad1fec4e6fa34856b40498f1b0d97e23402dc,1,train/9/255.png
+test/9/3.png,small-line,9,cfe9dd24760da24fae09838fde2c0fe037c9cb96da029a4d452940755af26cee,1,train/9/972.png
+test/9/4.png,smooth-line,9,a2bebe07ae6753b9deefa0f689c899f7bb0f1bf9fbba5d6fa1807516ad7a3369,0,
+test/9/5.png,smooth-line,9,f0f59d3a3a9b27e101242f90abd5ef7d7157b4d1cc8bb6d4bf5def4e886446c7,0,

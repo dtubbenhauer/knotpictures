@@ -1,0 +1,6 @@
+split,style,images,correct,abs_error_sum,pairs,increments_equal_one
+train,clean,300,288,12,150,140
+val,clean,80,77,3,40,37
+test,clean,160,150,10,80,74
+test,thin,160,16,720,80,0
+test,break,160,13,147,80,75

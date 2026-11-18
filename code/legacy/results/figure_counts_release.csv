@@ -1,0 +1,8 @@
+file,sha256,label,group,width,height,ink_min,ink_max,otsu_min_foreground,components_1_1,prediction_1_1,components_1_4,prediction_1_4,components_32_1,prediction_32_1,components_32_4,prediction_32_4,components_64_1,prediction_64_1,components_64_4,prediction_64_4,components_128_1,prediction_128_1,components_128_4,prediction_128_4,components_otsu_1,prediction_otsu_1,components_otsu_4,prediction_otsu_4
+arXiv/figs/knot_orig.png,f79ebf7ae7f8c38f8ec2f53ff90c131f0eaf3850ff3ae11df001612345f4bbb0,9,training-illustration,512,512,0,255,125,4,4,4,4,5,5,5,5,8,8,8,8,9,9,9,9,9,9,9,9
+arXiv/figs/knot_skeletonize.png,62ef3e58bce4b094943b2d8aafe27a3148ae2ec4464fa932fec35891cce5b279,9,training-illustration,512,512,0,46,12,9,9,9,9,158,158,6,6,0,-1,0,-1,0,-1,0,-1,9,9,9,9
+arXiv/figs/knot_persp.png,a6921952b16ba64cdd0a5ff51f72a6fe292984bca1a72d58d266143dea5791b4,9,training-illustration,512,512,0,255,83,18,18,8,8,9,9,9,9,20,20,20,20,211,211,91,91,56,56,45,45
+arXiv/figs/knot_tr.png,8ecb1b791919ac6905e40a47274575cdd3e96891e49e628c3f319d6b4cb53a9a,9,training-illustration,512,512,0,255,83,25,25,21,21,61,61,53,53,122,122,86,86,269,269,86,86,161,161,103,103
+arXiv/figs/knot_final.png,6339fb05c830dc215a5548e755cd148c28552831ed673f3c0906b6e9af7e2612,9,training-illustration,512,512,0,255,83,25,25,21,21,61,61,53,53,122,122,86,86,269,269,86,86,161,161,103,103
+arXiv/figs/9_46.png,abee57584992937c0a5db9500c167d09df6c769ab6a266db27d872ac70f04f58,9,named-table-diagram,512,512,0,255,60,6,6,6,6,9,9,9,9,9,9,9,9,414,414,47,47,9,9,9,9
+arXiv/figs/9_48.png,81e01f033becf2339829c9f0d159dc78051914a19bb480f8bdacbfd535187ee1,9,named-table-diagram,512,512,0,255,61,6,6,6,6,9,9,9,9,9,9,9,9,415,415,46,46,9,9,9,9

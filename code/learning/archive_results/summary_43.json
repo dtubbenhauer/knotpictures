@@ -1,0 +1,31 @@
+{
+  "best_epoch": 19,
+  "selection_examples": 52,
+  "metrics": {
+    "public_duplicate": {
+      "correct": 6,
+      "total": 18,
+      "mae": 1.1666666666666667
+    },
+    "public_new": {
+      "correct": 0,
+      "total": 31,
+      "mae": 142.03225806451613
+    },
+    "test_source": {
+      "correct": 205,
+      "total": 1701,
+      "mae": 1.470899470899471
+    },
+    "train": {
+      "correct": 437,
+      "total": 1192,
+      "mae": 0.8531879194630873
+    },
+    "validation": {
+      "correct": 202,
+      "total": 1092,
+      "mae": 1.174908424908425
+    }
+  }
+}
