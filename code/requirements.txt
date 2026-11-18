@@ -1,0 +1,8 @@
+# Direct Python dependencies of the experiments, as used in the reported runs.
+# Python 3.12.14, CPU, single-threaded BLAS. PyMuPDF embeds MuPDF 1.26.11.
+numpy==2.3.5
+scipy==1.17.0
+Pillow==13.0.0
+matplotlib==3.10.8
+scikit-learn==1.8.0
+PyMuPDF==1.26.6

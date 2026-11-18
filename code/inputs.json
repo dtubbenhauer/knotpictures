@@ -1,0 +1,31 @@
+{
+  "dataset": {
+    "url": "https://huggingface.co/datasets/tr33hugg3r/knot-crossings/resolve/cbeeb47ea922dd6f8cf7bf244510fe0efcadfb81/knot_crossings_dataset.tar.gz",
+    "bytes": 67992311,
+    "sha256": "67ce51264d06fb9bb0381d49a1763973e23dc831c5863ff847466bb6690c5099",
+    "output": "legacy/knot_crossings_dataset.tar.gz"
+  },
+  "poster": {
+    "url": "https://prideout.net/blog/svg_knots/knottable_v1.svg",
+    "bytes": 769162,
+    "sha256": "bd34a6d0334013847388113f82ef9729664ab585a5b7f7694260bd9323541831",
+    "output": "legacy/knottable_v1.svg"
+  },
+  "paper": {
+    "url": "https://arxiv.org/src/2510.06284v1",
+    "bytes": 9551656,
+    "sha256": "16555a399526e699cf6f88215548df873e84b0047751943d1c0b21eff0240323",
+    "members": {
+      "figs/knots.png": "b900392adda288c6b06df3526bf69c2ca266cbc820dc77c1bc5f97a4c3954184",
+      "figs/knot_orig.png": "f79ebf7ae7f8c38f8ec2f53ff90c131f0eaf3850ff3ae11df001612345f4bbb0",
+      "figs/knot_skeletonize.png": "62ef3e58bce4b094943b2d8aafe27a3148ae2ec4464fa932fec35891cce5b279",
+      "figs/knot_persp.png": "a6921952b16ba64cdd0a5ff51f72a6fe292984bca1a72d58d266143dea5791b4",
+      "figs/knot_tr.png": "8ecb1b791919ac6905e40a47274575cdd3e96891e49e628c3f319d6b4cb53a9a",
+      "figs/knot_final.png": "6339fb05c830dc215a5548e755cd148c28552831ed673f3c0906b6e9af7e2612",
+      "figs/9_46.png": "abee57584992937c0a5db9500c167d09df6c769ab6a266db27d872ac70f04f58",
+      "figs/9_48.png": "81e01f033becf2339829c9f0d159dc78051914a19bb480f8bdacbfd535187ee1",
+      "figs/knotpicture.png": "8dfaee8a09e715fa46ea6485b0557d30ffb76ef95d794b31b81c8cde43dfcf32",
+      "figs/knotpicture2.png": "2ca7655e399602a611935249308606b7fd9aa5dbb9e2a0d3823f56153321a8d1"
+    }
+  }
+}

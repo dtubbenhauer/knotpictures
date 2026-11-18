@@ -1,0 +1,6 @@
+evaluation,correct,total,mean_absolute_error,same_file_as_training
+image_split,1810,1811,0.0005521811154058532,621
+resizing_family_split,1684,1827,0.15763546798029557,756
+archive_test,22,49,1.6122448979591837,18
+archive_test_trained_classes,22,47,1.5957446808510638,18
+table,0,15,3.4,0
