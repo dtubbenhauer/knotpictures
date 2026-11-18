@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these experiments, please cite the paper."
+title: "On knot detection via picture recognition"
+authors:
+  - family-names: Dranowski
+    given-names: Anne
+  - family-names: Kabkov
+    given-names: Yura
+  - family-names: Tubbenhauer
+    given-names: Daniel
+repository-code: "https://github.com/dtubbenhauer/knotpictures"
+url: "https://www.dtubbenhauer.com/knot-detector.html"
+preferred-citation:
+  type: article
+  title: "On knot detection via picture recognition"
+  authors:
+    - family-names: Dranowski
+      given-names: Anne
+    - family-names: Kabkov
+      given-names: Yura
+    - family-names: Tubbenhauer
+      given-names: Daniel
+  year: 2025
+  journal: arXiv
+  doi: 10.48550/arXiv.2510.06284
+  url: "https://arxiv.org/abs/2510.06284"

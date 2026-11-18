@@ -1,0 +1,10 @@
+# On knot detection via picture recognition
+> Reproducible experiments and figures from Anne Dranowski, Yura Kabkov and Daniel Tubbenhauer.
+
+- [Repository overview](https://github.com/dtubbenhauer/knotpictures#readme)
+- [Main article in Markdown](https://raw.githubusercontent.com/dtubbenhauer/knotpictures/main/ai/main-article.md)
+- [Paper guide](https://raw.githubusercontent.com/dtubbenhauer/knotpictures/main/ai/paper.md)
+- [Results index](https://raw.githubusercontent.com/dtubbenhauer/knotpictures/main/AI_README.md)
+- [Verification code](https://github.com/dtubbenhauer/knotpictures/blob/main/code/verify.py)
+- [Paper](https://arxiv.org/abs/2510.06284)
+- [Project page](https://www.dtubbenhauer.com/knot-detector.html)
